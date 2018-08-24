@@ -8,3 +8,4 @@ def square_array(array)
 end
 
 print square_array(numbers)
+print arr
