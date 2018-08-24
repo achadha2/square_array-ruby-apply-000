@@ -9,5 +9,8 @@ end
 
 square_array(numbers)
 
-def squarem(newnums)
-  
+def squarem(array2)
+  array2.collect {|i| i**2 }
+end
+
+print squarem(newnums)
