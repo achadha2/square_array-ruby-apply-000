@@ -7,7 +7,7 @@ def square_array(array)
   arr
 end
 
-square_array(numbers)
+print square_array(numbers)
 
 def squarem(array2)
   array2.collect {|i| i**2 }
