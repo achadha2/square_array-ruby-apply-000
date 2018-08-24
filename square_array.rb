@@ -7,6 +7,5 @@ def square_array(array)
   arr
 end
 
-print square_array(numbers)
+square_array(numbers)
 
-def 
